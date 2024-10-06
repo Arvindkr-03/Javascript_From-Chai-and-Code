@@ -1,3 +1,3 @@
 # Javascript_From-Chai-and-Code
 <br>
-Adding readme file..
+This is the first class of Dom practical useful methods during practical.
